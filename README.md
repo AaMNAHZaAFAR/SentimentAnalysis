@@ -1,1 +1,3 @@
 # SentimentAnalysis
+Implemented a BERT model to perform sentiment analysis on airline reviews. The project involved collecting a dataset of airline reviews containing positive, neutral, and negative sentiments. The data was preprocessed to clean the text and prepare it for the BERT tokenizer. The pre-trained BERT model was then fine-tuned on this dataset to adapt it to the specific context of airline feedback. The model's performance was evaluated using metrics such as accuracy and F1-score to ensure its effectiveness in accurately classifying sentiments in the reviews.
+Skills: Python (Programming Language) · Machine Learning · Research · Large Language Models (LLM) · BERT (Language Model) · Natural Language Processing (NLP)
